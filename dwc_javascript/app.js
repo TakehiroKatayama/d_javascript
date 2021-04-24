@@ -1,8 +1,7 @@
-var i;
-var num = 0;
 
-for(i = 1; i < 11; i++){
-    num = num + i;
-}
+var a = 2
+var b = 4
 
-alert('１から１０まで足し算した結果は' + num + 'です');
+num = (a+b);
+
+alert('a + b = ' + num );
